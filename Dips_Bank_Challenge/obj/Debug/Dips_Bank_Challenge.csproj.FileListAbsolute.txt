@@ -1,0 +1,12 @@
+c:\users\rolf-ivar\documents\visual studio 2017\Projects\Dips_Bank_Challenge\Dips_Bank_Challenge\bin\Debug\Dips_Bank_Challenge.exe.config
+c:\users\rolf-ivar\documents\visual studio 2017\Projects\Dips_Bank_Challenge\Dips_Bank_Challenge\bin\Debug\Dips_Bank_Challenge.exe
+c:\users\rolf-ivar\documents\visual studio 2017\Projects\Dips_Bank_Challenge\Dips_Bank_Challenge\bin\Debug\Dips_Bank_Challenge.pdb
+c:\users\rolf-ivar\documents\visual studio 2017\Projects\Dips_Bank_Challenge\Dips_Bank_Challenge\obj\Debug\Dips_Bank_Challenge.csprojResolveAssemblyReference.cache
+c:\users\rolf-ivar\documents\visual studio 2017\Projects\Dips_Bank_Challenge\Dips_Bank_Challenge\obj\Debug\Dips_Bank_Challenge.exe
+c:\users\rolf-ivar\documents\visual studio 2017\Projects\Dips_Bank_Challenge\Dips_Bank_Challenge\obj\Debug\Dips_Bank_Challenge.pdb
+C:\Users\Rolf-Ivar\Documents\MEGA\Jobb\Programmering\Dips_Bank_Challenge\Dips_Bank_Challenge\bin\Debug\Dips_Bank_Challenge.exe.config
+C:\Users\Rolf-Ivar\Documents\MEGA\Jobb\Programmering\Dips_Bank_Challenge\Dips_Bank_Challenge\bin\Debug\Dips_Bank_Challenge.exe
+C:\Users\Rolf-Ivar\Documents\MEGA\Jobb\Programmering\Dips_Bank_Challenge\Dips_Bank_Challenge\bin\Debug\Dips_Bank_Challenge.pdb
+C:\Users\Rolf-Ivar\Documents\MEGA\Jobb\Programmering\Dips_Bank_Challenge\Dips_Bank_Challenge\obj\Debug\Dips_Bank_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Rolf-Ivar\Documents\MEGA\Jobb\Programmering\Dips_Bank_Challenge\Dips_Bank_Challenge\obj\Debug\Dips_Bank_Challenge.exe
+C:\Users\Rolf-Ivar\Documents\MEGA\Jobb\Programmering\Dips_Bank_Challenge\Dips_Bank_Challenge\obj\Debug\Dips_Bank_Challenge.pdb
